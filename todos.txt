@@ -1,3 +1,2 @@
-eat
-eat dinner
-do more
+These are some todos
+You probably want to make some better ones
